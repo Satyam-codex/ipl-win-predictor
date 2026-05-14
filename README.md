@@ -78,5 +78,6 @@ ipl-win-predictor/
 ├── final_processed_ipl_data.xls
 ├── requirements.txt
 ├── README.md
-└── Pictures/
+└── Pictures
+
 https://ipl-win-predictor-ksohpwxgxghshankkt94gw.streamlit.app/
