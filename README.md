@@ -1,4 +1,4 @@
-# ipl-win-predictor
+# IPL-Win-Predictor
 A simple and interactive Machine Learning project that predicts the winning probability of IPL teams during a live match.
 This project is built using historical IPL match data and provides real-time win probability predictions based on the current match situation like score, wickets, overs, target, run rate, etc.
 # About The Project
