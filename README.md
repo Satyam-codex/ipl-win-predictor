@@ -82,4 +82,4 @@ ipl-win-predictor/
 ## Live Demo
 
 Website Link:  
-https://ipl-win-predictor-ksohpwxgxghshankkt94gw.streamlit.app
+https://ipl-win-predictor-ksohpwxgxghshankkt94gw.streamlit.app/
