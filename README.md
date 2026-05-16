@@ -63,7 +63,7 @@ The prediction depends on the following inputs:
 - Target Score
 - Current Score
 - Overs Completed
-- Wickets Out
+
 
 ---
 
