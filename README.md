@@ -69,7 +69,7 @@ The prediction depends on the following inputs:
 
 ## Project Structure
 
-```bash
+bash
 ipl-win-predictor/
 │
 ├── app.py
